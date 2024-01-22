@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Embarca and always looking forward to learn.
+I am currently working at Embarca and always looking forward to learn.
 
 
 ## 🌐 Socials:
