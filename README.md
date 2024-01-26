@@ -13,11 +13,6 @@ I am currently working at Embarca and always looking forward to learn.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M4tiasToreta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M4tiasToreta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=M4tiasToreta&icon=0&color=0)](https://visitcount.itsvg.in)
 
