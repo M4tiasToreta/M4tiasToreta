@@ -10,9 +10,6 @@ I am currently working at Embarca and always looking forward to learn.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4tiasToreta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M4tiasToreta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=M4tiasToreta&icon=0&color=0)](https://visitcount.itsvg.in)
 
